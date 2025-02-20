@@ -11,8 +11,8 @@ public class TestCociente {
         System.out.println("---A DIVIDIR---");
         System.out.println("Division de dos numeros reales: " + cociente.cocienteReal(3.12,123.4));
         System.out.println("Division de dos numeros enteros: " + cociente.cocienteEntero(9,3));
-        System.out.println("Division de dos numeros reales: " + cociente.cocienteInversion(4));
-        System.out.println("Division de dos numeros reales: " + cociente.cocienteRaiz(25));
+        System.out.println("Inversión de un numero real: " + cociente.cocienteInversion(4));
+        System.out.println("Raiz cuadradad de un numero real: " + cociente.cocienteRaiz(25));
 
     }
 
