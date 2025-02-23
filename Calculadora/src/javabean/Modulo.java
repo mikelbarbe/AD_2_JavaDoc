@@ -1,7 +1,7 @@
 package javabean;
 
 /**
- * Esta clase Esta clase proporciona operaciones relacionadas con el módulo (residuo de una división) y el valor
+ * Esta clase proporciona operaciones relacionadas con el módulo (residuo de una división) y el valor
  * absoluto.
  *
  * - Cálculo del módulo (residuo de una división entera).
