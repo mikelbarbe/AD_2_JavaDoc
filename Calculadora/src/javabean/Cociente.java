@@ -54,7 +54,10 @@ public class Cociente {
      * @param n1 Valor del numero real.
      * @return Devuelve la raiz cuadrada de un numero real.
      */
-    public double cocienteRaiz(double n1){return Math.sqrt(n1);
+    public double cocienteRaiz(double n1){
+        if (n1 < 0)
+            throw new IllegalArgumentException("No existe la raíz cuadrada de un nº negativo");
+        else return Math.sqrt(n1);
     }
 }
 
