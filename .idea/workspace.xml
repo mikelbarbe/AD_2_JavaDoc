@@ -6,7 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="4dc5debf-68ed-4014-a159-a97b78ef36c1" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaDoc.docx" beforeDir="false" afterPath="$PROJECT_DIR$/JavaDoc.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AD_2_JavaDoc.iml" beforeDir="false" afterPath="$PROJECT_DIR$/AD_2_JavaDoc.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculadora/src/javabean/Cociente.java" beforeDir="false" afterPath="$PROJECT_DIR$/Calculadora/src/javabean/Cociente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculadora/src/testing/TestCociente.java" beforeDir="false" afterPath="$PROJECT_DIR$/Calculadora/src/testing/TestCociente.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,9 +26,24 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+<<<<<<< HEAD
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Calculadora/src/testing/ModuloTest.java" root0="SKIP_HIGHLIGHTING" />
   </component>
+=======
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;AdolMF&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/mikelbarbe/AD_2_JavaDoc.git&quot;,
+    &quot;accountId&quot;: &quot;605aa101-3121-4a03-a28b-7d51af8d48cf&quot;
+  }
+}</component>
+>>>>>>> origin/main
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 7
@@ -39,6 +56,7 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+<<<<<<< HEAD
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;Application.MikelPruebaBea.executor&quot;: &quot;Run&quot;,
@@ -75,6 +93,44 @@
   <component name="RunManager">
     <configuration name="TestModulo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="testing.TestModulo" />
+=======
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.MikelPruebaBea.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "JUnit.AdolPruebaMikel (1).executor": "Run",
+    "JUnit.AdolPruebaMikel.executor": "Run",
+    "JUnit.AdolPruebaMikel.testSumaEntero.executor": "Run",
+    "JUnit.AdolPruebaMikel.testSumaReal.executor": "Run",
+    "JUnit.TestCociente.executor": "Run",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "adolfo__martinez__fernandez",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/DAM/0102_ED/AD_2_JavaDoc",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="testing" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TestCociente">
+    <configuration name="AdolPruebaMikel (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+>>>>>>> origin/main
       <module name="AD_2_JavaDoc" />
       <extension name="coverage">
         <pattern>
@@ -82,15 +138,101 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+<<<<<<< HEAD
+=======
+      <option name="PACKAGE_NAME" value="testing" />
+      <option name="MAIN_CLASS_NAME" value="testing.AdolPruebaMikel" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AdolPruebaMikel" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AD_2_JavaDoc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javabean.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="javabean" />
+      <option name="MAIN_CLASS_NAME" value="javabean.AdolPruebaMikel" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AdolPruebaMikel.testSumaEntero" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AD_2_JavaDoc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javabean.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="javabean" />
+      <option name="MAIN_CLASS_NAME" value="javabean.AdolPruebaMikel" />
+      <option name="METHOD_NAME" value="testSumaEntero" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AdolPruebaMikel.testSumaReal" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AD_2_JavaDoc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javabean.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="javabean" />
+      <option name="MAIN_CLASS_NAME" value="javabean.AdolPruebaMikel" />
+      <option name="METHOD_NAME" value="testSumaReal" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCociente" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AD_2_JavaDoc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testing" />
+      <option name="MAIN_CLASS_NAME" value="testing.TestCociente" />
+      <option name="TEST_OBJECT" value="class" />
+>>>>>>> origin/main
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+<<<<<<< HEAD
         <item itemvalue="Application.TestModulo" />
       </list>
     </recent_temporary>
+=======
+        <item itemvalue="JUnit.TestCociente" />
+        <item itemvalue="JUnit.AdolPruebaMikel (1)" />
+        <item itemvalue="JUnit.AdolPruebaMikel" />
+        <item itemvalue="JUnit.AdolPruebaMikel.testSumaEntero" />
+        <item itemvalue="JUnit.AdolPruebaMikel.testSumaReal" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-125ca727e0f0-intellij.indexing.shared.core-IU-243.23654.189" />
+        <option value="bundled-js-predefined-d6986cc7102b-822845ee3bb5-JavaScript-IU-243.23654.189" />
+      </set>
+    </attachedChunks>
+>>>>>>> origin/main
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -107,6 +249,8 @@
       <workItem from="1740388249029" duration="2068000" />
       <workItem from="1740390339194" duration="1073000" />
       <workItem from="1740394760029" duration="479000" />
+      <workItem from="1740402893753" duration="147000" />
+      <workItem from="1740410173677" duration="2470000" />
     </task>
     <servers />
   </component>
