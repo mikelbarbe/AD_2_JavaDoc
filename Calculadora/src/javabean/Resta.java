@@ -46,7 +46,6 @@ public class Resta {
     /**
      * Metodo para hacer la resta acumulada
      * @param num número que se restara del acumulado
-     * @param num3 valor del tercer número real
      * @return devuelve el valor acumulado despues de realizar la resta
      */
     public double restaAcumulado(double num){
