@@ -5,7 +5,7 @@ import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
 
-public class BeapruebaAlmudena {
+public class BeaPruebaAlmudena {
 @Test
     public void testProductoReales() {
     Producto producto = new Producto();
