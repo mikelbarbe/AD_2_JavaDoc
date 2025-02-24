@@ -6,7 +6,7 @@ import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
 
-public class TestCociente {
+public class JcarlosPruebaAdol {
     private Cociente cociente;
 
     @BeforeEach
@@ -21,12 +21,12 @@ public class TestCociente {
 
     @Test
     void testCocienteReal() {
-        assertEquals(13.2 / 123.4, cociente.cocienteReal(3.12, 123.4));
+        assertEquals(0.8, cociente.cocienteReal(4, 5));
     }
 
     @Test
     void testCocienteRealDiv0() {
-        assertThrows(IllegalArgumentException.class, () -> cociente.cocienteReal(5.0, 0));
+        assertThrows(IllegalArgumentException.class, () -> cociente.cocienteReal(4.0, 0));
     }
 
     /*
@@ -35,12 +35,12 @@ public class TestCociente {
 
     @Test
     void testCocienteEntero() {
-        assertEquals(3, cociente.cocienteEntero(9, 3));
+        assertEquals(3, cociente.cocienteEntero(6, 2));
     }
 
     @Test
     void testCocienteEnteroDiv0() {
-        assertThrows(IllegalArgumentException.class, () -> cociente.cocienteEntero(10, 0));
+        assertThrows(IllegalArgumentException.class, () -> cociente.cocienteEntero(-18, 0));
     }
 
     /*
@@ -49,7 +49,7 @@ public class TestCociente {
 
     @Test
     void testCocienteInversion() {
-        assertEquals(1.0 / 4.0, cociente.cocienteInversion(4));
+        assertEquals(1.0 / 3.0, cociente.cocienteInversion(3));
     }
 
     @Test
@@ -63,11 +63,11 @@ public class TestCociente {
 
     @Test
     void testCocienteRaiz() {
-        assertEquals(5.0, cociente.cocienteRaiz(25.0));
+        assertEquals(3.0, cociente.cocienteRaiz(9.0));
     }
 
     @Test
     void testCocienteRaizNeg() {
-        assertThrows(IllegalArgumentException.class, () -> cociente.cocienteRaiz(-3));
+        assertThrows(IllegalArgumentException.class, () -> cociente.cocienteRaiz(-4));
     }
 }
