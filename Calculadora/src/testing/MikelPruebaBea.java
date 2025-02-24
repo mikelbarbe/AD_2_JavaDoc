@@ -1,5 +1,9 @@
 package testing;
 import javabean.Resta;
+import org.junit.Test;
+import org.junit.jupiter.api.BeforeEach;
+
+import static org.junit.Assert.assertEquals;
 
 
 public class MikelPruebaBea {
@@ -12,38 +16,32 @@ public class MikelPruebaBea {
      * - Resta de dos numeros enteros.
      * - Resta de numeros acumulados de 10.
      */
-    static Resta resta = new Resta();
 
-    public static void main(String[] args) {
-        dosReales();
-        dosEnteros();
+    Resta resta;
+
+    @BeforeEach
+    public void
+    setup(){
+
+        resta = new Resta();
     }
 
-    public static void dosReales () {
-        double num1 = 1.2;
-        double num2 = 2.1;
+    @Test
+    public void restaDeNumerosReales (){
+        assertEquals(5.5,resta.restaDeNumerosReales(2.2,3.3),0.1);}
 
-        System.out.println("Resta de dos numeros reales: " + resta.restaDeNumerosReales(num1,num2));
-    }
-    public static void dosEnteros () {
-        int num1 = 1;
-        int num2 = 2;
-
-        System.out.println("Resta de dos numeros reales: " + resta.restaDeNumerosEnteros(num1,num2));
+    @Test
+    public void restaDeNumerosEnteros(){
+        assertEquals(6,resta.restaDeNumerosEnteros(3,3),0.1);
     }
 
-
-    public static void tresReales (){
-        double num1 = 1.2;
-        double num2 = 2.1;
-        double num3 = 3.3;
-
-        System.out.println("Resta de tres numeros reales: " + resta.restaDeTresNumerosReales(num1,num2,num3));
+    @Test
+    public void restaDeTresNumerosReales(){
+        assertEquals(4.4,resta.restaDeTresNumerosReales(8.1,3,7),0.1);
     }
 
-    public static void restaAcumulado () {
-        double num1 = 1.2;
-
-        System.out.println("Resta de dos numeros reales: " + resta.restaAcumulado(num1));
+    @Test
+    public void restaAcumulado(){
+        assertEquals(-10,resta.restaAcumulado(10),0.1);
     }
 }

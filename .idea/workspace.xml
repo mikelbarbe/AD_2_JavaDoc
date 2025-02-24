@@ -6,7 +6,177 @@
   <component name="ChangeListManager">
     <list default="true" id="4dc5debf-68ed-4014-a159-a97b78ef36c1" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaDoc.docx" beforeDir="false" afterPath="$PROJECT_DIR$/JavaDoc.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AD_2_JavaDoc.iml" beforeDir="false" afterPath="$PROJECT_DIR$/AD_2_JavaDoc.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculadora/src/testing/BeaPruebaAlmudena.java" beforeDir="false" afterPath="$PROJECT_DIR$/Calculadora/src/testing/BeaPruebaAlmudena.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculadora/src/testing/MikelPruebaBea.java" beforeDir="false" afterPath="$PROJECT_DIR$/Calculadora/src/testing/MikelPruebaBea.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculadora/src/testing/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/Calculadora/src/testing/TestSuma.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Cociente/allclasses-index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Cociente/allpackages-index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Cociente/copy.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Cociente/element-list" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Cociente/help-doc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Cociente/index-files/index-1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Cociente/index-files/index-2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Cociente/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Cociente/javabean/Cociente.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Cociente/javabean/package-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Cociente/javabean/package-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Cociente/legal/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Cociente/legal/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Cociente/legal/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Cociente/legal/jquery.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Cociente/legal/jqueryUI.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Cociente/link.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Cociente/member-search-index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Cociente/module-search-index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Cociente/overview-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Cociente/package-search-index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Cociente/resources/glass.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Cociente/resources/x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Cociente/script-dir/jquery-3.7.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Cociente/script-dir/jquery-ui.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Cociente/script-dir/jquery-ui.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Cociente/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Cociente/search-page.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Cociente/search.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Cociente/search.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Cociente/stylesheet.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Cociente/tag-search-index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Cociente/type-search-index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Modulo/allclasses-index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Modulo/allpackages-index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Modulo/copy.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Modulo/element-list" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Modulo/help-doc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Modulo/index-files/index-1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Modulo/index-files/index-2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Modulo/index-files/index-3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Modulo/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Modulo/javabean/Modulo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Modulo/javabean/package-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Modulo/javabean/package-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Modulo/legal/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Modulo/legal/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Modulo/legal/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Modulo/legal/jquery.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Modulo/legal/jqueryUI.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Modulo/link.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Modulo/member-search-index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Modulo/module-search-index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Modulo/overview-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Modulo/package-search-index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Modulo/resources/glass.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Modulo/resources/x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Modulo/script-dir/jquery-3.7.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Modulo/script-dir/jquery-ui.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Modulo/script-dir/jquery-ui.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Modulo/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Modulo/search-page.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Modulo/search.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Modulo/search.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Modulo/stylesheet.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Modulo/tag-search-index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Modulo/type-search-index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Producto/allclasses-index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Producto/allpackages-index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Producto/copy.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Producto/element-list" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Producto/help-doc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Producto/index-files/index-1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Producto/index-files/index-2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Producto/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Producto/javabean/Producto.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Producto/javabean/package-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Producto/javabean/package-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Producto/legal/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Producto/legal/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Producto/legal/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Producto/legal/jquery.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Producto/legal/jqueryUI.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Producto/link.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Producto/member-search-index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Producto/module-search-index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Producto/overview-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Producto/package-search-index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Producto/resources/glass.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Producto/resources/x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Producto/script-dir/jquery-3.7.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Producto/script-dir/jquery-ui.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Producto/script-dir/jquery-ui.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Producto/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Producto/search-page.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Producto/search.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Producto/search.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Producto/stylesheet.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Producto/tag-search-index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Producto/type-search-index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Resta/allclasses-index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Resta/allpackages-index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Resta/copy.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Resta/element-list" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Resta/help-doc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Resta/index-files/index-1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Resta/index-files/index-2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Resta/index-files/index-3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Resta/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Resta/javabean/Resta.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Resta/javabean/package-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Resta/javabean/package-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Resta/legal/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Resta/legal/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Resta/legal/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Resta/legal/jquery.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Resta/legal/jqueryUI.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Resta/link.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Resta/member-search-index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Resta/module-search-index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Resta/overview-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Resta/package-search-index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Resta/resources/glass.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Resta/resources/x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Resta/script-dir/jquery-3.7.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Resta/script-dir/jquery-ui.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Resta/script-dir/jquery-ui.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Resta/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Resta/search-page.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Resta/search.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Resta/search.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Resta/stylesheet.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Resta/tag-search-index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Resta/type-search-index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Suma/allclasses-index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Suma/allpackages-index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Suma/copy.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Suma/element-list" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Suma/help-doc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Suma/index-files/index-1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Suma/index-files/index-2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Suma/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Suma/javabean/Suma.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Suma/javabean/package-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Suma/javabean/package-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Suma/legal/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Suma/legal/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Suma/legal/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Suma/legal/jquery.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Suma/legal/jqueryUI.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Suma/link.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Suma/member-search-index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Suma/module-search-index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Suma/overview-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Suma/package-search-index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Suma/resources/glass.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Suma/resources/x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Suma/script-dir/jquery-3.7.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Suma/script-dir/jquery-ui.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Suma/script-dir/jquery-ui.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Suma/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Suma/search-page.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Suma/search.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Suma/search.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Suma/stylesheet.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Suma/tag-search-index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc_JavaDoc/Suma/type-search-index.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,22 +205,50 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.MikelPruebaBea.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/DAM/0102_ED/AD_2_JavaDoc&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.MikelPruebaBea.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "JUnit.BeaPruebaAlmudena.testProductoEnteros.executor": "Run",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/DAM/0102_ED/AD_2_JavaDoc",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
+  <component name="RunManager">
+    <configuration name="BeaPruebaAlmudena.testProductoEnteros" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AD_2_JavaDoc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testing" />
+      <option name="MAIN_CLASS_NAME" value="testing.BeaPruebaAlmudena" />
+      <option name="METHOD_NAME" value="testProductoEnteros" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BeaPruebaAlmudena.testProductoEnteros" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -74,6 +272,8 @@
       <workItem from="1740388249029" duration="2068000" />
       <workItem from="1740390339194" duration="1073000" />
       <workItem from="1740394760029" duration="479000" />
+      <workItem from="1740407273089" duration="3853000" />
+      <workItem from="1740419382333" duration="1137000" />
     </task>
     <servers />
   </component>
