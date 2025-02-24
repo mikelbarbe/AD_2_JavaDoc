@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4dc5debf-68ed-4014-a159-a97b78ef36c1" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDoc.docx" beforeDir="false" afterPath="$PROJECT_DIR$/JavaDoc.docx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +40,7 @@
     &quot;Application.MikelPruebaBea.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;mikel__barberena&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/DAM/0102_ED/AD_2_JavaDoc&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
@@ -71,7 +72,8 @@
       <workItem from="1740306730618" duration="123000" />
       <workItem from="1740387146983" duration="1078000" />
       <workItem from="1740388249029" duration="2068000" />
-      <workItem from="1740390339194" duration="373000" />
+      <workItem from="1740390339194" duration="1073000" />
+      <workItem from="1740394760029" duration="479000" />
     </task>
     <servers />
   </component>
