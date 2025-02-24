@@ -1,14 +1,21 @@
 
 package testing;
 import javabean.Producto;
+import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
 
 public class BeaPruebaAlmudena {
-@Test
+
+    Producto producto;
+    @BeforeEach
+    void setUp() {
+        producto = new Producto();
+    }
+
+    @Test
     public void testProductoReales() {
-    Producto producto = new Producto();
 
     //dos numeros positivos
     assertEquals(6.0, producto.prodReal(2.0, 3.0), 0.01);
@@ -23,7 +30,7 @@ public class BeaPruebaAlmudena {
     assertEquals(0.0, producto.prodReal(2.0, 0.0), 0.01);
     assertEquals(0.0, producto.prodReal(0.0, 3.0), 0.01);
 }
-@Test
+    @Test
     public void testProductoEnteros(){
     Producto producto = new Producto();
 
