@@ -3,11 +3,8 @@ package javabean;
 /**
  * Esta clase Esta clase proporciona operaciones relacionadas con el módulo (residuo de una división) y el valor
  * absoluto.
- *
  * - Cálculo del módulo (residuo de una división entera).
- *
  * - Cálculo del valor absoluto de un número.
- *
  * @author Juan Carlos Revueltas - GitHub: Jcrev95
  * @version 1.0
  */
